@@ -2,4 +2,4 @@
 simple implement with GUI
 
 
-![Alt text](TTT.png)
+![Alt text](TTTPlay.PNG)
